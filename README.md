@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Hilal 
 
-<!--
-**HilalKut/HilalKut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineer | AI • Computer Vision • IoT • Software Development
 
-Here are some ideas to get you started:
+I build practical software solutions and intelligent connected
+systems that turn real-world problems into working products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a Computer Engineer interested in building practical software
+solutions at the intersection of artificial intelligence,
+computer vision, IoT and modern software engineering.
+
+I enjoy turning ideas into working systems — from sensor-based
+IoT devices and embedded applications to AI-powered software
+and computer vision projects.
+
+### Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Computer Vision & Image Processing
+- IoT & Sensor-Based Systems
+- Full-Stack Software Development
+- Intelligent Automation
+- Generative AI
